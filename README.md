@@ -33,3 +33,4 @@ It is stable, reliable, and incredibly user-friendly. I can't recommend it enoug
 - [VMware Workstation 15](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/15.5.7/)
 - [OBS 27.2.4](https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x64.exe)
 - [WinLibs](https://winlibs.com/)
+- [Audacity 2.4.2](https://archive.org/details/audacity-2.4.2)
