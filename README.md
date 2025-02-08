@@ -34,3 +34,4 @@ It is stable, reliable, and incredibly user-friendly. I can't recommend it enoug
 - [OBS 27.2.4](https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x64.exe)
 - [WinLibs](https://winlibs.com/)
 - [Audacity 2.4.2](https://archive.org/details/audacity-2.4.2)
+- [HandBrake 1.3.3](https://handbrake.fr/rotation.php?file=HandBrake-1.3.3-x86_64-Win_GUI.exe&old=true)
