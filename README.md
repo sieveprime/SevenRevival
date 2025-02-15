@@ -11,6 +11,9 @@ It is stable, reliable, and incredibly user-friendly. I can't recommend it enoug
 - [WinSetupFromUSB](http://www.winsetupfromusb.com/downloads/)
 - [Rufus](https://rufus.ie/en/)
 
+## Activating
+- [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
 ## Updating
 - [Legacy Update](https://legacyupdate.net/)
 
