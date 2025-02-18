@@ -32,7 +32,7 @@ It is stable, reliable, and incredibly user-friendly. I can't recommend it enoug
 - [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)
 - [Firefox ESR](https://www.mozilla.org/en-US/firefox/enterprise/)
 - [Google Chrome](https://www.google.com/chrome/index.html)
-- [Thorium Browser](https://thorium.rocks/win7) - best performance by far
+- [Thorium Browser](https://thorium.rocks/win7) - best browser performance by far
 - [Palemoon](https://www.palemoon.org/download.shtml)
 - [VMware Workstation 15](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/15.5.7/)
 - [OBS 27.2.4](https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x64.exe)
