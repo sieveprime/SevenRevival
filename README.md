@@ -42,3 +42,4 @@ It is stable, reliable, and incredibly user-friendly. I can't recommend it enoug
 - [WinCDEmu](https://wincdemu.sysprogs.org/download/) - for mounting iso
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Codium](https://github.com/Alex313031/codium) - VSCodium Fork with Compiler Optimizations, better Logo, and Windows 7/8/8.1 Support
+- [TortoiseGit](https://tortoisegit.org/)
