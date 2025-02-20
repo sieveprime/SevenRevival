@@ -40,3 +40,5 @@ It is stable, reliable, and incredibly user-friendly. I can't recommend it enoug
 - [Audacity 2.4.2](https://archive.org/details/audacity-2.4.2)
 - [HandBrake 1.3.3](https://handbrake.fr/rotation.php?file=HandBrake-1.3.3-x86_64-Win_GUI.exe&old=true)
 - [WinCDEmu](https://wincdemu.sysprogs.org/download/) - for mounting iso
+- [Notepad++](https://notepad-plus-plus.org/)
+- [Codium](https://github.com/Alex313031/codium) - VSCodium Fork with Compiler Optimizations, better Logo, and Windows 7/8/8.1 Support
