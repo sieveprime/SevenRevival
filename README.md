@@ -2,7 +2,7 @@
 
 Windows 7 is my favorite version of NT, and I believe it to be Microsoft's magnum opus.
 
-It is stable, reliable, and incredibly user-friendly. I can't recommend it enough if your system supports it. Despite its age, Windows 7 remains a powerful and efficient operating system that continues to serve users well into 2025. Its classic interface, robust performance, and compatibility with a wide range of software make it an enduring favorite. Whether you're a long-time fan or a newcomer looking for a dependable OS, Windows 7 still shines as a top choice.
+It is stable, reliable, and incredibly user-friendly. I can't recommend it enough if your system supports it. Despite its age, it remains a powerful and efficient operating system that continues to serve users well into 2048. Its classic interface, robust performance, and compatibility with a wide range of software make it an enduring favorite. Whether you're a long-time fan or a newcomer looking for a dependable OS, Windows 7 still shines as a top choice.
 
 ## Downloading
 - [Archive](https://archive.org)
